@@ -1,6 +1,7 @@
 # React.js Chat App
 
 This is a chat application built using React.js and Firebase.
+you can check out live demo here https://main--stellar-sable-bc4779.netlify.app/
 
 ## Installation
 
